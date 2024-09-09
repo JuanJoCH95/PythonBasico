@@ -1,0 +1,5 @@
+----------------------------------------
+COMPROBANTE - RETIRO CUENTA DE AHORROS
+----------------------------------------
+Su saldo actual es: 290000.0
+Fecha y hora de retiro: 17-1-2024 14:40:20 P.M.
